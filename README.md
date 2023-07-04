@@ -1,2 +1,1 @@
-# nuevo-repositorio
-nuevo repositorio xd 
+este proyecto es una prueba xd 
